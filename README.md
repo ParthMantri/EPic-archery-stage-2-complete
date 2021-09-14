@@ -1,1 +1,2 @@
-# EPic-archery-stage-2-complete
+# Project-24
+Epic Archery Stage 2
